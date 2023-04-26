@@ -1,0 +1,9 @@
+.idea
+__pycache__
+.bsp
+target/
+spark-apps/*.jar
+spark-apps/*.py
+**/.ipynb_checkpoints/
+libs/
+data/
